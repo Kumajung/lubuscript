@@ -1,0 +1,2 @@
+# lubuscript
+Tutorial Typscript
